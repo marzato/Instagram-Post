@@ -1,0 +1,53 @@
+
+.post{
+    height: 95vh;
+    width: 70vh;
+    margin: auto;
+    background-color: white;
+}
+
+.header{
+    font-size: 15px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 1rem;
+}
+
+.header-icons{
+    display: flex;
+    justify-content: left;
+    margin: 2px;
+
+}
+
+.title{
+    display: flex;
+    flex-direction: column;
+}
+
+
+img{
+    width: 100%;
+}
+
+.fa-ellipsis-v, .fa-heart, .fa-comment, .fa-telegram-plane, .fa-bookmark{
+    font-size: 18px;
+}
+
+.fa-html5{
+    font-size: 20px;
+    margin-top: 1px;
+}
+
+.icons{
+    display: flex;
+    justify-content: space-between;
+    margin-top:1px;
+}
+
+.left-icons{
+    display: flex;
+    justify-content: flex-start;
+}
+
+
